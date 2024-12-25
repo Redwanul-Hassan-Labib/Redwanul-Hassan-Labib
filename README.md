@@ -1,4 +1,4 @@
-(https://www.linkedin.com/in/redwanul-hassan-labib/overlay/background-image/)
+
 
 <h1 align="center">Hey 👋, I'm Redwan Labib</h1>
 <h3 align="center">I am Full-Stack Web Developer</h3>
