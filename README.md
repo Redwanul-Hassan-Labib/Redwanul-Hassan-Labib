@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Redwan Labib</h1>
+<h1 align="center">Hey 👋, I'm Redwan Labib</h1>
 <h3 align="center">I am Full-Stack Web Developer</h3>
 
 ### 💫 About Me:
