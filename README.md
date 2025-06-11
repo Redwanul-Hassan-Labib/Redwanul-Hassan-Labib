@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on Red Web Technoloy<br><br>👯 I’m looking to collaborate on GitHub<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me web.redwanlabib@gmail.com<br><br>💬 My Portfolio Web : redwanulhassanlabib.netlify.app
+💫 About Me:<br>🔭 I’m currently working on ProperSix LTD <br><br>👯 I’m looking to collaborate on GitHub<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me web.redwanlabib@gmail.com<br><br>💬 My Portfolio Web : redwanulhassanlabib.netlify.app
 
 
 ## 🌐 Socials:
