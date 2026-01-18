@@ -1,28 +1,112 @@
+<!-- ================= HEADER BANNER ================= -->
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/695110f3-9836-4cf9-842b-5518bd755a4e" alt="Gradient Banner" width="100%" style="border-radius: 10px;" />
+</p>
 
-<h1 align="center">Hey 👋, I'm Redwan Labib</h1>
-<h3 align="center">I am Full-Stack Web Developer</h3>
+<h1 align="center">👋 Hi, I'm <strong>Redwanul Hassan Labib</strong></h1>
+<h3 align="center">
+💻 Full-Stack Developer | ⚙️ Backend Engineer | 🌐 Web & Open Source Enthusiast
+</h3>
 
-
-# 💫 About Me:
-<br>🔭 I’m currently working on ProperSix LTD <br><br>👯 I’m looking to collaborate on GitHub<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me web.redwanlabib@gmail.com<br><br>💬 My Portfolio Web : redwanulhassanlabib.netlify.app
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Redwanul.Hasan.Labib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redwanlabib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/redwanul-hassan-labib) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/webredwanlabib) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Local_Breadfruit_671) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LabibRedwa42767) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Redwan-Labib) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Redwanul-Hassan-Labib&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Redwanul-Hassan-Labib&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Redwanul-Hassan-Labib&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%2B+Next.js+Specialist;Node.js+%2F+Express+Backend;Clean+%26+Scalable+Code+Lover;Open+Source+Enthusiast; Learning+Golang" />
+</h2>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Redwanul-Hassan-Labib&icon=0&color=4)](https://visitcount.itsvg.in)
 
+## 🧑‍💻 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🚀 I’m a **Full-Stack Developer** with strong expertise in **Frontend development** and solid hands-on experience in **Backend systems**.  
+💡 I enjoy building **scalable, maintainable, and user-centric** web applications from scratch.  
+⚙️ I work with **REST APIs, authentication systems, databases, and modern UI frameworks**.  
+🎯 My goal is to build **production-ready full-stack applications** and contribute to impactful products.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,mysql,mongodb,prisma,docker" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,firebase,figma,vercel" />
+</p>
+
+---
+
+## 🔥 What I Do
+
+### ✅ Core Expertise
+- Frontend architecture with **React & Next.js**
+- Backend development using **Node.js & Express**
+- REST API design & integration
+- Authentication & authorization systems
+- Database design (SQL & NoSQL)
+- ORM usage with **Prisma**
+- Clean, scalable & maintainable code practices
+
+### 🌱 Currently Improving
+- Advanced backend architecture patterns
+- Performance optimization
+- Microservices & system design concepts
+
+---
+
+## 💪 Skill Levels
+
+- **React / Next.js:** ⭐⭐⭐⭐☆
+- **TypeScript:** ⭐⭐⭐⭐☆
+- **Node.js / Express:** ⭐⭐⭐⭐☆
+- **PostgreSQL / SQL:** ⭐⭐⭐⭐☆
+- **MongoDB / Prisma:** ⭐⭐⭐⭐☆
+
+---
+
+## 📌 Featured Projects
+
+| 🧠 Project | 📝 Description | 🌐 Live Demo | 🧰 Stack |
+|-----------|---------------|-------------|---------|
+| 🏨 **Portfolio** | Personal full-stack portfolio | [Live](https://redwanulhassanlabib.netlify.app/) | React, Tailwind |
+| 🛒 **E-Commerce UI** | Responsive e-commerce frontend | [Live](https://ninico-e-commerce.vercel.app/) | React, Redux, Vite |
+| 🎓 **Admin Dashboard** | Responvice Admin Dashboard | [Live](https://dash-code-admin-dashboard.vercel.app/) | Next.js, Tailwind, Shadcn/ui, Lucide |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Redwanul-Hassan-Labib&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2&icon_color=94018A&border_color=94018A" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redwanul-Hassan-Labib&layout=compact&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Redwanul-Hassan-Labib&theme=dark&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/redwanul-hassan-labib/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+  <a href="https://www.instagram.com/redwanlabib"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
+  <a href="mailto:web.redwanlabib@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
+</p>
+
+---
+
+<p align="center">✨ “First make it work. Then make it right. Then make it fast.” ✨</p>
