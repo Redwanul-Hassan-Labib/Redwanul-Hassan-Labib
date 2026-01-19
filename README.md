@@ -102,9 +102,7 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/redwanul-hassan-labib/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="https://www.instagram.com/redwanlabib"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
-  <a href="mailto:web.redwanlabib@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Redwanul.Hasan.Labib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redwanlabib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/redwanul-hassan-labib) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/webredwanlabib) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Local_Breadfruit_671) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LabibRedwa42767) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Redwan-Labib) 
 </p>
 
 ---
