@@ -10,7 +10,7 @@
 </h3>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=500&size=25&color=D433F7&background=33FFC600&width=443&height=60&lines=Full+Stack+Web+Developer;React+Next.js+Specialist;Node.js++Express+Backend;Clean+Scalable+Code+Lover;Open+Source+Enthusiast;Learning+Golang" />
+  <img src="https://github.com/Redwanul-Hassan-Labib/Redwanul-Hassan-Labib/blob/main/github-user-contribution.svg" />
 </h2>
 
 ---
