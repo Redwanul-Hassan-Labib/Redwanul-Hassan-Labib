@@ -47,7 +47,7 @@
 
 ### ✅ Core Expertise
 - Frontend architecture with **React & Next.js**
-- Backend development using **Node.js & Express**
+- Backend development using **Node.js & Express & Golang**
 - REST API design & integration
 - Authentication & authorization systems
 - Database design (SQL & NoSQL)
