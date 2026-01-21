@@ -1,7 +1,7 @@
 <!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="https://github.com/Redwanul-Hassan-Labib/Redwanul-Hassan-Labib/blob/main/1727560916919.jpeg" alt="Gradient Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/Redwanul-Hassan-Labib/Redwanul-Hassan-Labib/blob/main/Gray%20Minimalist%20Web%20Development%20Linkedin%20Banner%20(1584%20x%20396%20px)%20(2).png" alt="Gradient Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Redwanul Hassan Labib</strong></h1>
