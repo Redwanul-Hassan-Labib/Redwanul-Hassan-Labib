@@ -75,6 +75,15 @@
 
 ---
 
+## 💻 GitHub Lang
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redwanul-Hassan-Labib&layout=compact&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2" />
+</p> 
+
+---
+
+
 ## 💪 Skill Levels
 
 - **React / Next.js:** ⭐⭐⭐⭐☆
