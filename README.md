@@ -98,6 +98,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Redwanul-Hassan-Labib&theme=dark&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2" />
 </p>
 
+<p align="left">
+  <img width="850px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
+</p>
 ---
 
 ## 🔗 Connect With Me
