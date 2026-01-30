@@ -8,7 +8,6 @@
 <h3 align="center">
 💻 Full-Stack Developer | ⚙️ Backend Engineer | 🌐 Web & Open Source Enthusiast
 </h3>
-
 <h2 align="center">
   <img src="https://github.com/Redwanul-Hassan-Labib/Redwanul-Hassan-Labib/blob/main/github-user-contribution.svg" />
 </h2>
