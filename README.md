@@ -78,29 +78,9 @@
 | 🛒 **E-Commerce UI** | Responsive e-commerce frontend | [Live](https://ninico-e-commerce.vercel.app/) | React, Redux, Vite |
 | 🎓 **Admin Dashboard** | Responvice Admin Dashboard | [Live](https://dash-code-admin-dashboard.vercel.app/) | Next.js, Tailwind, Shadcn/ui, Lucide |
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Redwanul-Hassan-Labib&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2&icon_color=94018A&border_color=94018A" />
-</p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redwanul-Hassan-Labib&layout=compact&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2" />
-</p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Redwanul-Hassan-Labib&theme=vue&card_width=450&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Redwanul-Hassan-Labib&layout=compact&langs_count=8&card_width=370&theme=vue" />
-</a>
-
 
 
 ## 🔥 Contribution Streak
@@ -109,10 +89,28 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Redwanul-Hassan-Labib&theme=dark&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2" />
 </p>
 
+---
+
+---
+
+## 📊 GitHub Stats
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Redwanul-Hassan-Labib&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2&icon_color=94018A&border_color=94018A" />
+</p> -->
+
 <p align="left">
   <img width="850px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redwanul-Hassan-Labib&layout=compact&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2" />
+</p>
+
 ---
+
+
+
 
 ## 🔗 Connect With Me
 <p align="center">
