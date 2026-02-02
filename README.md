@@ -118,7 +118,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redwanul-Hassan-Labib&theme=dark" alt="Most Commit Language" height="160" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Redwanul-Hassan-Labib&theme=dark" alt="Repos per Language" height="160" />
   <br/>
-  <img width="850px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" alt="Profile Details" height="160" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" /> -->
