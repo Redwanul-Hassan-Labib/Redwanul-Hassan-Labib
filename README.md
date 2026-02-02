@@ -114,10 +114,19 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redwanul-Hassan-Labib&layout=compact&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2" />
 </p> -->
-
-<p align="left">
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redwanul-Hassan-Labib&theme=dark" alt="Most Commit Language" height="160" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Redwanul-Hassan-Labib&theme=dark" alt="Repos per Language" height="160" />
+  <br/>
   <img width="850px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
-</p>
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" alt="Profile Details" height="160" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" /> -->
+</div>
+
+<!-- <p align="left">
+  <img width="850px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
+</p> -->
 
 
 
