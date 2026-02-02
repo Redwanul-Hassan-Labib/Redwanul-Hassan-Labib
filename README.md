@@ -73,7 +73,7 @@
 - Performance optimization
 - Microservices & system design concepts
 
----
+
 
 
 <!-- <p align="center">
@@ -118,7 +118,7 @@
   <img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Redwanul-Hassan-Labib&theme=vue" alt="Repos per Language" height="160" />
   <br/>
   <br/>
-  <img width="550px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
+  <img width="580px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" alt="Profile Details" height="160" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" /> -->
