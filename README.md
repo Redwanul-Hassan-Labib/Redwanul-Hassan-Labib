@@ -120,7 +120,10 @@
   <br/>
   <img width="580px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redwanul-Hassan-Labib&radius=12&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <br/>
+  <br/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redwanul-Hassan-Labib&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" alt="Profile Details" height="160" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" /> -->
