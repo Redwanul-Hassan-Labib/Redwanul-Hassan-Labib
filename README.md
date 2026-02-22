@@ -119,6 +119,7 @@
   <br/>
   <br/>
   <img width="580px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redwanul-Hassan-Labib&radius=12&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" alt="Profile Details" height="160" />
   <br/>
