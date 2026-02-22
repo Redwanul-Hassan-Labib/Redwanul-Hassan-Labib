@@ -114,11 +114,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redwanul-Hassan-Labib&layout=compact&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2" />
 </p> -->
 <div align="center">
-  <img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redwanul-Hassan-Labib&theme=vue" alt="Most Commit Language" height="160" />
-  <img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Redwanul-Hassan-Labib&theme=vue" alt="Repos per Language" height="160" />
+  <img width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redwanul-Hassan-Labib&theme=vue" alt="Most Commit Language" height="160" />
+  <img width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Redwanul-Hassan-Labib&theme=vue" alt="Repos per Language" height="160" />
   <br/>
   <br/>
-  <img width="580px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
+  <img width="680px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redwanul-Hassan-Labib&theme=vue" />
   <br/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redwanul-Hassan-Labib&radius=16&theme=react&area=true&order=5" height="250" alt="activity-graph graph"  />
