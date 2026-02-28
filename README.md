@@ -54,7 +54,7 @@
 </p>  -->
 
 <!-- <p align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-taupe.vercel.app?user=Redwanul-Hassan-Labib&theme=vue&short_numbers=true" alt="GitHub Streak" /></p> -->
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Redwanul-Hassan-Labib&theme=merko&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=Redwanul-Hassan-Labib&theme=merko&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 
 ---
 
